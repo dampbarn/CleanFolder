@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @dampbarn
-- 👀 I’m interested in making an app for clean folders that are a total mess. I have a script for this task which I'm tryig to build further on when the time is there. 
-keep an eye up.  It's gonna happen, if you don't believe me   you better ask somebody.
+- 👀 Folders are a mess, I don't like that.
+I have a script which handles the problem. 
+  Optimally need develop into more sophisticated software for shareware use. 
+Looking for collaboration.  Please, get in   touch with me if interested. 
+
+Can handle huge folders and filetypes pipelined into prenamed .txt, .pdf., docx.- folders. Looks clean and neat in a jiffy.
 
 AB.
